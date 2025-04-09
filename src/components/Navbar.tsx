@@ -28,7 +28,9 @@ const Navbar = () => {
         </div>
 
         <div className="hidden md:block">
-          <Button className="bg-coastal-coral hover:bg-coastal-coral/90 text-white">Get Started</Button>
+          <a href="#booking">
+            <Button className="bg-coastal-coral hover:bg-coastal-coral/90 text-white">Get Started</Button>
+          </a>
         </div>
 
         {/* Mobile Menu Button */}

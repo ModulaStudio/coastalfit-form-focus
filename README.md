@@ -1,26 +1,23 @@
-# Welcome to your Lovable project
+💪 CoastalFit Studio – Fitness Booking Website
+A dynamic and user-friendly form-based website built with React and TypeScript for fitness studios or personal trainers. It features a contact/booking form with input validation and confirmation feedback, along with sections to showcase your classes, trainers, and client testimonials.
 
-## Project info
+🔥 Features
+📝 Interactive booking/contact form with real-time input validation
 
-**URL**: https://lovable.dev/projects/086e4f53-9a6d-4edb-bb5b-c1290190e9d2
+✅ Confirmation message on successful submission
 
-## How can I edit this code?
+📅 Class schedule section with weekly programs
 
-There are several ways of editing your application.
+🏋️ Trainer bios with photos and specialties
 
-**Use Lovable**
+💬 Client testimonials to build trust and credibility
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/086e4f53-9a6d-4edb-bb5b-c1290190e9d2) and start prompting.
+📱 Fully responsive and optimized for all devices
 
-Changes made via Lovable will be committed automatically to this repo.
+⚛️ Built with React + TypeScript
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+⚙️ Getting Started
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -36,20 +33,6 @@ npm i
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
 ## What technologies are used for this project?
 
 This project is built with:
@@ -60,14 +43,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/086e4f53-9a6d-4edb-bb5b-c1290190e9d2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)

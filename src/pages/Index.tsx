@@ -65,28 +65,28 @@ const Index = () => {
       name: "Alex Thompson",
       title: "Head Trainer & HIIT Specialist",
       bio: "With over 10 years of experience, Alex specializes in high-intensity training and athletic performance. Certified in multiple training methodologies.",
-      image: "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      image: "/image4.png",
       specialties: ["HIIT", "Functional Training", "Sports Performance"]
     },
     {
       name: "Maya Patel",
       title: "Yoga & Pilates Instructor",
       bio: "Maya brings a holistic approach to fitness with her extensive background in yoga, meditation, and body awareness practices.",
-      image: "https://images.unsplash.com/photo-1594381898411-846e7d193883?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      image: "/image1.png",
       specialties: ["Yoga", "Pilates", "Meditation", "Flexibility"]
     },
     {
       name: "Chris Reynolds",
       title: "Strength & Conditioning Coach",
       bio: "Former competitive athlete turned coach, Chris helps clients build strength, power, and confidence through evidence-based training approaches.",
-      image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      image: "/image2.png",
       specialties: ["Strength Training", "Olympic Lifting", "CrossTraining"]
     },
     {
       name: "Sarah Chen",
       title: "Pilates & Rehabilitation Specialist",
       bio: "With a background in physical therapy, Sarah specializes in corrective exercise and helping clients recover from injuries through mindful movement.",
-      image: "https://images.unsplash.com/photo-1518310952931-b1de897abd40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
+      image: "/image3.png",
       specialties: ["Pilates", "Rehabilitation", "Corrective Exercise"]
     },
   ];

@@ -39,9 +39,11 @@ const ClassCard = ({ title, description, time, duration, trainer, level }: Class
         <p className="mb-6 text-sm">{description}</p>
         <div className="flex justify-between items-center">
           <span className="text-sm font-medium">with {trainer}</span>
-          <Button variant="outline" size="sm" className="border-coastal-teal text-coastal-teal hover:bg-coastal-teal hover:text-white">
-            Book
-          </Button>
+          <a href="#booking">
+            <Button variant="outline" size="sm" className="border-coastal-teal text-coastal-teal hover:bg-coastal-teal hover:text-white">
+              Book
+            </Button>
+          </a>
         </div>
       </CardContent>
     </Card>

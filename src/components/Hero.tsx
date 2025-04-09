@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="relative">
       {/* Background image with overlay */}
       <div className="absolute inset-0 bg-coastal-navy/80 z-0">
-        <div className="w-full h-full bg-[url('https://images.unsplash.com/photo-1517838277536-f5f99be501cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80')] bg-cover bg-center opacity-50 mix-blend-overlay"></div>
+       <div className="w-full h-full bg-[url('/image4.png')] bg-cover bg-center opacity-50 mix-blend-overlay"></div>
       </div>
       
       {/* Content */}
@@ -18,12 +18,16 @@ const Hero = () => {
             will help you achieve your goals in a supportive, energizing environment.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <Button size="lg" className="bg-coastal-teal hover:bg-coastal-teal/90 text-white">
-              Explore Classes
-            </Button>
-            <Button size="lg" className="bg-coastal-coral hover:bg-coastal-coral/90 text-white">
-              Book a Session
-            </Button>
+             <a href="#classes">
+              <Button size="lg" className="bg-coastal-teal hover:bg-coastal-teal/90 text-white">
+                Explore Classes
+              </Button>
+            </a>
+            <a href="#booking">
+              <Button size="lg" className="bg-coastal-coral hover:bg-coastal-coral/90 text-white">
+                Book a Session
+              </Button>
+            </a>
           </div>
         </div>
       </div>
