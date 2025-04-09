@@ -1,7 +1,9 @@
-💪 CoastalFit Studio – Fitness Booking Website
+
+## 💪 CoastalFit Studio – Fitness Booking Website
+
 A dynamic and user-friendly form-based website built with React and TypeScript for fitness studios or personal trainers. It features a contact/booking form with input validation and confirmation feedback, along with sections to showcase your classes, trainers, and client testimonials.
 
-🔥 Features
+## 🔥 Features
 📝 Interactive booking/contact form with real-time input validation
 
 ✅ Confirmation message on successful submission
@@ -17,7 +19,7 @@ A dynamic and user-friendly form-based website built with React and TypeScript f
 ⚛️ Built with React + TypeScript
 
 
-⚙️ Getting Started
+## ⚙️ Getting Started
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
